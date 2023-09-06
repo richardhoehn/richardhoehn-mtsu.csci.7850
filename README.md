@@ -1,7 +1,7 @@
 # CSCI 7850 - Deep Learning
 CSCI 7850 - Deep Learning class at MTSU in teh Fall of 2023.
 
-This repo will serve for the labs being worked on in this class.
+This repo `will` serve for the labs being worked on in this class.
 
 ## GII Push and Commit
 I use the following commands to push to GIT:
@@ -10,7 +10,7 @@ git add .
 git commit -a -m "Commit Message"
 git push
 ```
-You can also add the following to your `~/.bashrc` file liks this:
+You can also add the following to your `~/.bashrc` file like this:
 ```
 gitpush() {
     git add .
