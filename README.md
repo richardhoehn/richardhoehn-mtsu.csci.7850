@@ -3,6 +3,11 @@ CSCI 7850 - Deep Learning class at MTSU in teh Fall of 2023.
 
 This repo will serve for the labs being worked on in this class.
 
+## Runnig Python & Scrips
+I had to add teh shebang for python and shell scripts like this:
+1. Python => `#!/usr/bin/env python3` at the top of the file.
+2. Shell Script => `#!/bin/sh` at the top of the file.
+
 ## GII Push and Commit
 I use the following commands to push to GIT:
 ```
