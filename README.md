@@ -10,7 +10,7 @@ git add .
 git commit -a -m "Commit Message"
 git push
 ```
-You can also add the following to your `~/.bashrc` file liks this:
+You can also add the following to your `~/.bashrc` file like this:
 ```
 gitpush() {
     git add .
