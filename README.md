@@ -4,8 +4,7 @@ CSCI 7850 - Deep Learning class at MTSU in teh Fall of 2023.
 This repo will serve for the labs being worked on in this class.
 
 ## Login to bio-sim
-I used the following command to get acces to biosim.
-`ssh rhoehn@login.hpc.svc.cluster.local`
+I used the following command (`ssh rhoehn@login.hpc.svc.cluster.local`) to get acces to biosim. You will need to use your MTSU passord to gain access.
 
 ## Runnig Python & Scrips
 I had to add teh shebang for python and shell scripts like this:
